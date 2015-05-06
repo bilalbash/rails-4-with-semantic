@@ -42,7 +42,7 @@ in terminal go to your projects directory:
 
 than write this command to clone this repo:
 
-<tt>git clone git@github.com:bilalbash/rails-4-basic.git</tt>.
+<tt>git clone git@github.com:bilalbash/rails-4-basic.git</tt>
 
 == how to start a new rails project or product
 
@@ -50,10 +50,10 @@ than write this command to clone this repo:
 
 * the above "git clone" command will be changed like: 
 
-<tt>git clone git@github.com:bilalbash/rails-4-basic.git wire-tap</tt>.
+<tt>git clone git@github.com:bilalbash/rails-4-basic.git wire-tap</tt>
 
 or
 
-<tt>git clone git@github.com:bilalbash/rails-4-basic.git wire_tap</tt>.
+<tt>git clone git@github.com:bilalbash/rails-4-basic.git wire_tap</tt>
 
 there must be no spaces between wire and tap
