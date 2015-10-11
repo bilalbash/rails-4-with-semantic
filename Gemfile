@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
+ruby '2.2.0'
+
 gem 'rails',        '4.2.0'
 
 gem 'sqlite3',      '1.3.10'  # Use sqlite3 as the database for Active Record
@@ -13,6 +14,7 @@ gem 'jbuilder',     '2.2.13'  # Build JSON APIs with ease. Read more: https://gi
 gem 'sdoc',         '0.4.1', group: :doc # bundle exec rake doc:rails generates the API under doc/api.
 gem 'zeus',         '0.15.4'
 gem 'slim-rails',   '3.0.1'
+gem 'semantic-ui-sass', github: 'doabit/semantic-ui-sass'
 
 group :development, :test do
   gem 'byebug',       '4.0.5' # Call 'byebug' anywhere in the code to stop execution and get a debugger console
